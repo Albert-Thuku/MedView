@@ -54,9 +54,8 @@ MediView/
 
 The six parts are modules of one program. They are not intended to run separately. AJ's file contains the single `main()` function that starts the application.
 
-## 2. Get the latest combined project onto a computer
+## 2. Get the project onto a computer
 
-After everyone's files are on the main branch, either download and extract the repository ZIP or clone the repository.
 
 If the project is already cloned locally, save or commit your own changes, then update your main branch:
 
@@ -67,7 +66,7 @@ git pull
 
 Open PowerShell in the project root: the folder containing `README.md`, `include` and `src`. Do not run the compile command from inside one member's folder. If downloading a ZIP, extract it first.
 
-## 3. Compile and run from the copied code
+## 3. Compile and run from the code
 
 This method works with the seven source/header files shared in the chat. It does not require the extra build scripts, gallery or tests from the ZIP.
 
